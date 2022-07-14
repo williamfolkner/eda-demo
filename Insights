@@ -1,0 +1,14 @@
+High Level Insights:
+- YtoY graph - april-july 2020 lower levels than 2018-2019; eventhough the data is generated I'll assume that this is due to COVID
+- Year-to-date total PAID_AMOUNT for Jun 1, 2020 decreased by 29.84% (-14,411,101) from $48,299,554 to $33,888,453.
+- TOP 3 Payers - F, CA, H; Bottom 3 - UL, B, S
+- Top 3 SERVICE_CATEGORYs for total PAID_AMOUNT are: InpatientServices, SpecialistsFFS, OutpatientServices
+- Inp, Hospital and out contibute most to payed amount
+- Payer F contributes most to all specialties except hospital; CA and H contribites most to hospital
+- Payer H - the only one which contributes to Medical Doctor
+
+Payers' insights:
+
+
+- Payer CO has only AncillaryFFS since 202001
+- Payer UN - the only payer which increased paid amount during the last 12 months
