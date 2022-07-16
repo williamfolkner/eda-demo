@@ -7,8 +7,15 @@ High Level Insights:
 - Payer F contributes most to all specialties except hospital; CA and H contribites most to hospital
 - Payer H - the only one which contributes to Medical Doctor
 
+Table view changes Apr-May
+- Apr-May 2020 shows 33% fall in Paid Amount
+- Almost all top 10 categories showed fall except Ancillary (I'll assume that ancillar costs are not tied to number of patients)
+- Almost all top 10 claim speliaties showed fall; hematology showed growth of 38% (COVID-19 is infection with a significant impact on the hematopoietic system)
+- Top 4 Payers showed fall of 30-35% in paid amount; knowing the distributions of specialties by payer - F,O fall due to inp; CA,H - due to hospital
+- UN and B showed growth - they have comparatively high share of hematology (13 and 10%) which showed growth
+
+
 Payers' insights:
-
-
 - Payer CO has only AncillaryFFS since 202001
 - Payer UN - the only payer which increased paid amount during the last 12 months
+- All previous insights are confirmed
