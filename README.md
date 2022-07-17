@@ -9,7 +9,7 @@
 ## Links
 "Claims report" - https://datastudio.google.com/reporting/3910779e-8221-4702-be87-234a0c95eff0
 
-## Step to follow the analysis
+## Steps to follow the analysis
 1) "1 - Data Cleaning"
 2) "Claims report"  with "Insights" to go through exploratory analysis
 3) "2 - Analysis" for additional insights
